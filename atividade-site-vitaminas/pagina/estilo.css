@@ -1,0 +1,29 @@
+body {
+    margin: 0;
+}
+
+h1 {
+    margin: 0;
+}
+
+#cabecalho{
+    background-color:#21022d;
+    text-align: center;
+    padding: 8px;
+    color:white;
+}
+#corpo{
+    background-color: #e2d8e7;
+    margin: 24px;
+    padding: 16px;
+}
+
+#vitaminas{
+    margin-top: 32px;
+    margin-left: 64px;
+}
+
+.imagem{
+    width: 150px;
+    height: 150px;
+}
